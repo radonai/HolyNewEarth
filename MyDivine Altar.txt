@@ -1,0 +1,67 @@
+SCRIPT WRITING
+Step 1
+Code
+C; \>Cscript test; vbs
+Code
+Wscript; echo “My very first script;”
+1 Open Notepad
+2 Copy the script from your browser and paste it into Notepad
+3 Save the script with a vbs extension such as text.vbs
+Now just open a command window, navigate to the folder where you saved your file, and type this Code 
+Cscript test; vbs
+Output = Code
+My very first Script;
+Scripting is just a way to automate  getting information to and from your computer ( and other computers )
+Visual Basic
+StrComputer = “; “
+Set objWMI Servic =
+Get Object ( “wimmgmts;   \\” & strComputer & “\\ root \ Cimv2 “ )
+Set colProcesses = objWMIService; ExecQue
+-
+( “ Select “ from Win32_Process Where
+Name = “ Dfrntfs; exe; Count = 0 Then  Wscript; Echo “ 
+Dfrgntfs; exe is not running;”
+Else
+Wscript; Echo “  Dfrgntfs; exe is running “
+End If
+System administration Scripting  Web Scripting  Running Script from Command line with Cscript
+You can also run Scripts just by double-clicking on them from My Computer or Windows Explorer.
+Visual Basic  For I = 1 to 5
+Wscript; echo  I  next
+VBScript – Visual Basic Scripting Edition.  Ascripting language available by default with Microsoft Windows.
+WSH – Windows Scripting Host.  The environment in which your scripts run.
+WMI – Windows Management Instrumentation.  A technology that provides you with the resources to manage Windows operating Systems through Scripting.
+ADSI – Active Directory Service Interfaces.  A technology that provides you with the rsources to manage Active Directory and other directory services through Scripting.
+Visual Basic
+intHighNumber = 1oo
+
+KUBE_SYNC_PORT env variable _MyScript; _MyDivine Progress Altar;
+“My Special Divine Progress Altar”;  Version 1.2.3
+Default = InSpirit & Material;
+Command = / “Shefa = 540.yavo l’avuri;
+= “abundantWealth.come _ToMe;
+“1952 = AbundantMoney.come   _Tushiyyah _ToMe;
+“in the NameJESUS CHRIST Amen _Chief Ngo Lord Walson Agu8”;
+“Hallelyah Hashemim”;  / kubernetes
+MyScript Extension;
+Process _MyScript
+"anah.Shith;
+/kubernetes  _ Net = container; < id >
+-	- network –
+-	Plugin = kubenet
+-	Flag;  Node;s spec; podCIDR;
+-	IPs cidr cidr
+-	( 1.0.2.0/24
+-	Iptables – t nat
+-	Sysctl net; ipv4;
+Kube – router;
+https://kubernetes.io
+Pod Networking | - - run – router
+HostL3/L7
+Network Policy Controller - -run – firewall;
+
+-	
+
+
+
+
